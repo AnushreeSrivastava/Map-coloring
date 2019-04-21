@@ -1,0 +1,10 @@
+9
+NT Q
+NSW V
+SA WA
+SA NT
+SA Q
+Q NSW
+SA NSW
+SA V
+WA NT
