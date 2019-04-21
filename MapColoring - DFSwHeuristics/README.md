@@ -1,13 +1,6 @@
 # Backtracking search
 The program solves the instances of map colouring problem
 
-### Course
-<dt>2018 Spring, SFU</dt>
-<dt>CMPT 310: Artificial Intelligence Survey</dt>
-
-### Author
-James(Yuhao) He
-
 ### Description
 A map-colouring problem is made up of a set of vertices that represent the regions (variables), edges that represent the adjacency between each pair of vertices, and a set of colours (domains). The program aims to find a valid assignment of colours to vertices such that no vertice shares the same color with its adjacent vertices (neighbours). 
 
